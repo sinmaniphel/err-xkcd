@@ -2,7 +2,7 @@ import logging
 import re
 import requests
 from errbot import BotPlugin, botcmd
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 class ShowXkcd(BotPlugin):
