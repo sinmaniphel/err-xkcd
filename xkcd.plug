@@ -4,3 +4,9 @@ Module = xkcd
 
 [Documentation]
 Description = Show the image and alt text when someone links to xkcd
+
+[Python]
+version = 3
+
+[Errbot]
+
